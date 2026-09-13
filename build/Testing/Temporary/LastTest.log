@@ -1,0 +1,163 @@
+Start testing: Sep 13 21:48 UTC
+----------------------------------------------------------
+1/8 Testing: Student JSON serialization
+1/8 Test: Student JSON serialization
+Command: "/workspaces/DSA_Lab/build/tests" "Student JSON serialization"
+Directory: /workspaces/DSA_Lab/build
+"Student JSON serialization" start time: Sep 13 21:48 UTC
+Output:
+----------------------------------------------------------
+Filters: "Student JSON serialization"
+Randomness seeded to: 1781385165
+===============================================================================
+All tests passed (3 assertions in 1 test case)
+
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"Student JSON serialization" end time: Sep 13 21:48 UTC
+"Student JSON serialization" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/8 Testing: Instructor YAML serialization
+2/8 Test: Instructor YAML serialization
+Command: "/workspaces/DSA_Lab/build/tests" "Instructor YAML serialization"
+Directory: /workspaces/DSA_Lab/build
+"Instructor YAML serialization" start time: Sep 13 21:48 UTC
+Output:
+----------------------------------------------------------
+Filters: "Instructor YAML serialization"
+Randomness seeded to: 1683849202
+===============================================================================
+All tests passed (2 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Instructor YAML serialization" end time: Sep 13 21:48 UTC
+"Instructor YAML serialization" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/8 Testing: CSV escaping handles commas and quotes
+3/8 Test: CSV escaping handles commas and quotes
+Command: "/workspaces/DSA_Lab/build/tests" "CSV escaping handles commas and quotes"
+Directory: /workspaces/DSA_Lab/build
+"CSV escaping handles commas and quotes" start time: Sep 13 21:48 UTC
+Output:
+----------------------------------------------------------
+Filters: "CSV escaping handles commas and quotes"
+Randomness seeded to: 1926762996
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"CSV escaping handles commas and quotes" end time: Sep 13 21:48 UTC
+"CSV escaping handles commas and quotes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/8 Testing: Validation throws on bad email
+4/8 Test: Validation throws on bad email
+Command: "/workspaces/DSA_Lab/build/tests" "Validation throws on bad email"
+Directory: /workspaces/DSA_Lab/build
+"Validation throws on bad email" start time: Sep 13 21:48 UTC
+Output:
+----------------------------------------------------------
+Filters: "Validation throws on bad email"
+Randomness seeded to: 2811435794
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Validation throws on bad email" end time: Sep 13 21:48 UTC
+"Validation throws on bad email" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/8 Testing: Student JSON round-trip
+5/8 Test: Student JSON round-trip
+Command: "/workspaces/DSA_Lab/build/tests" "Student JSON round-trip"
+Directory: /workspaces/DSA_Lab/build
+"Student JSON round-trip" start time: Sep 13 21:48 UTC
+Output:
+----------------------------------------------------------
+Filters: "Student JSON round-trip"
+Randomness seeded to: 2781850100
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Student JSON round-trip" end time: Sep 13 21:48 UTC
+"Student JSON round-trip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/8 Testing: Invalid Student JSON throws ValidationError
+6/8 Test: Invalid Student JSON throws ValidationError
+Command: "/workspaces/DSA_Lab/build/tests" "Invalid Student JSON throws ValidationError"
+Directory: /workspaces/DSA_Lab/build
+"Invalid Student JSON throws ValidationError" start time: Sep 13 21:48 UTC
+Output:
+----------------------------------------------------------
+Filters: "Invalid Student JSON throws ValidationError"
+Randomness seeded to: 438450117
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Invalid Student JSON throws ValidationError" end time: Sep 13 21:48 UTC
+"Invalid Student JSON throws ValidationError" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/8 Testing: Instructor JSON round-trip
+7/8 Test: Instructor JSON round-trip
+Command: "/workspaces/DSA_Lab/build/tests" "Instructor JSON round-trip"
+Directory: /workspaces/DSA_Lab/build
+"Instructor JSON round-trip" start time: Sep 13 21:48 UTC
+Output:
+----------------------------------------------------------
+Filters: "Instructor JSON round-trip"
+Randomness seeded to: 996873270
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Instructor JSON round-trip" end time: Sep 13 21:48 UTC
+"Instructor JSON round-trip" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/8 Testing: Invalid Instructor JSON throws ValidationError
+8/8 Test: Invalid Instructor JSON throws ValidationError
+Command: "/workspaces/DSA_Lab/build/tests" "Invalid Instructor JSON throws ValidationError"
+Directory: /workspaces/DSA_Lab/build
+"Invalid Instructor JSON throws ValidationError" start time: Sep 13 21:48 UTC
+Output:
+----------------------------------------------------------
+Filters: "Invalid Instructor JSON throws ValidationError"
+Randomness seeded to: 1672191939
+===============================================================================
+All tests passed (1 assertion in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Invalid Instructor JSON throws ValidationError" end time: Sep 13 21:48 UTC
+"Invalid Instructor JSON throws ValidationError" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 13 21:48 UTC

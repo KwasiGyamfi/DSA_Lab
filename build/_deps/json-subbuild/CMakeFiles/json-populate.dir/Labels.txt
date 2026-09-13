@@ -1,0 +1,14 @@
+# Target labels
+ json-populate
+# Source files and their labels
+/workspaces/DSA_Lab/build/_deps/json-subbuild/CMakeFiles/json-populate
+/workspaces/DSA_Lab/build/_deps/json-subbuild/CMakeFiles/json-populate.rule
+/workspaces/DSA_Lab/build/_deps/json-subbuild/CMakeFiles/json-populate-complete.rule
+/workspaces/DSA_Lab/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-build.rule
+/workspaces/DSA_Lab/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-configure.rule
+/workspaces/DSA_Lab/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-download.rule
+/workspaces/DSA_Lab/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-install.rule
+/workspaces/DSA_Lab/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-mkdir.rule
+/workspaces/DSA_Lab/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-patch.rule
+/workspaces/DSA_Lab/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-test.rule
+/workspaces/DSA_Lab/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-update.rule
