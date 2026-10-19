@@ -1,0 +1,16 @@
+media_player/media_player_app
+media_player/playlist_smoke_test
+media_player/core
+media_player/core.*
+media_player/build/
+media_player/list_variants_test
+media_player/assets/*.mp3
+media_player/audio_test
+media_player/assets/*.mp3
+media_player/build/
+media_player/audio_test
+media_player/media_player_app
+media_player/playlist_smoke_test
+media_player/list_variants_test
+media_player/core*
+media_player/backup_before_finish_*/
