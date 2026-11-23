@@ -1,0 +1,7 @@
+type,n,m,merge_microseconds
+sorted_array,100,100,27
+sorted_linked,100,100,59
+sorted_array,1000,1000,382
+sorted_linked,1000,1000,796
+sorted_array,10000,10000,2770
+sorted_linked,10000,10000,6495
